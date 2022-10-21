@@ -1,0 +1,55 @@
+h1{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-size: 50px;
+    font-weight: lighter;
+    color: rgb(240, 236, 183);
+    background-color: rgba(205, 134, 63, 0.5);
+    text-align: center;
+    border: rgb(202, 132, 62);
+    border-style: ridge;
+}
+
+img{
+    height: 300px;
+    width: 400px;
+    border: rgb(205, 134, 63);
+    border-style: double;
+}
+
+div{
+    text-align: center;
+}
+
+body{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-size: x-large;
+    color: rgba(173, 113, 52, 0.767);
+    background-color: rgb(240, 236, 183);
+    border: rgba(205, 134, 63, 0.767);
+    border-style: double;
+    cursor: url(images/cheesecake.png), auto;
+    }
+
+
+h2{
+    font-size: larger;
+    color: rgb(240, 236, 183);
+    background-color: rgba(205, 134, 63, 0.596);
+    text-align: center;
+    border: rgba(205, 134, 63, 0.5);
+    border-style: ridge;
+}
+
+ul{
+    text-decoration: underline;
+    text-align: justify;
+}
+
+ol{
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.module{
+    padding: 2rem;
+}

@@ -1,0 +1,58 @@
+h1{
+    font-family: 'Cormorant Upright', serif;
+    font-size: xx-large;
+    color: rgb(78, 117, 11);
+    text-align: center;
+}
+
+img{
+    height: 300px;
+    width: 400px;
+    text-align: center;
+    border: rgb(3, 53, 3);
+    border-style: double;
+}
+
+div{
+    text-align: center;
+}
+
+body{
+    font-family: 'Cormorant', serif;
+    font-size: large;
+    font-weight: 600;
+    color: rgb(3, 53, 3);
+    background-color:rgba(144, 180, 80, 0.788);
+    border: rgba(115, 153, 48, 0.582);
+    border-style: groove;
+    cursor: url(images/matcha.png), auto;
+}
+
+h2{
+    background-color: rgba(115, 153, 48, 0.582);
+    text-align: center;
+    border: rgb(3, 53, 3);
+    border-style: double;
+}
+
+p{
+    font-size: larger;
+    color: rgb(3, 53, 3);
+    text-align: center;
+}
+
+ul{
+    font-size: larger;
+    font-weight: 900;
+    text-align: justify;
+    text-decoration: underline;
+}
+
+ol{
+    font-size: larger;
+    font-weight: 600;
+}
+
+.module{
+    padding: 2rem;
+}

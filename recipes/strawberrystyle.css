@@ -1,0 +1,52 @@
+h1{
+    font-family: 'Berkshire Swash', cursive;
+    font-size:xx-large;
+    color: rgb(243, 40, 57);
+    text-align: center;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    border: rgb(243, 40, 57);
+    border-style: double;
+}
+
+div{
+    text-align: center;
+}
+
+body{
+    font-family:'Mali', cursive;
+    font-size: large;
+    color: rgb(236, 79, 79);
+    background-color: rgb(252, 209, 216);
+    border: rgb(236, 79, 79);
+    border-style: dotted;
+    cursor: url(images/strawberry.png), auto;
+}
+
+h2{
+    background-color: rgb(247, 179, 162);
+    text-align: center;
+    border: crimson;
+    border-style: dotted;
+    
+}
+
+ul{
+    text-align: justify;
+    text-decoration: underline;
+
+}
+
+ol{
+    text-align: justify;
+}
+
+
+.module{
+    padding: 2rem;
+}
+
