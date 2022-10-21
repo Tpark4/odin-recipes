@@ -51,6 +51,7 @@ ul{
 ol{
     font-size: larger;
     font-weight: 600;
+    text-align: justify;
 }
 
 .module{
